@@ -19,7 +19,6 @@
 
 package net.technicpack.launchercore.launch.java.version;
 
-import net.technicpack.utilslib.OperatingSystem;
 import net.technicpack.utilslib.Utils;
 import net.technicpack.launchercore.launch.java.IJavaVersion;
 

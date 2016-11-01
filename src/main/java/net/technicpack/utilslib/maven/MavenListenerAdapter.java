@@ -1,7 +1,6 @@
 package net.technicpack.utilslib.maven;
 
 import net.technicpack.launchercore.util.DownloadListener;
-import net.technicpack.rest.io.Resource;
 import org.eclipse.aether.transfer.TransferCancelledException;
 import org.eclipse.aether.transfer.TransferEvent;
 import org.eclipse.aether.transfer.TransferListener;
